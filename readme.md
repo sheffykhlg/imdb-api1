@@ -14,4 +14,7 @@ If you anticipate sending a large number of requests, it is recommended that you
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/weebzone/IMDB-API)
 
+
+📖 **Note**: `imdb-api.tprojects.workers.dev` is redirected to `imdb-api.tprojects.workers.dev`. Please update your api url to improve latency.
+
 After deployed, map the worker to a Domain Name to configure cache. Only Workers deployed to custom domains have access to functional cache operations.
